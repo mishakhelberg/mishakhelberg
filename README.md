@@ -1,4 +1,4 @@
-[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Ftechnotaught.com%2Fwp-content%2Fuploads%2F2019%2F07%2Fgithub-logo.jpeg%3Ffit%3D1024%252C498%26ssl%3D1&f=1&nofb=1&ipt=aa4e2b7c4a68366ec0bad41caeb21422da86bf718ef12b5a760cc841c1151034&ipo=images)](https://mishakhelberg.io)
+[![MasterHead](https://raw.githubusercontent.com/mishakhelberg/mishakhelberg/refs/heads/main/LinkedIn%20Banner.jpg)](https://mishakhelberg.io)
 <h1 align="center">Hello, my name is Mishak 👋</h1>
 <h3 align="center">A passionate Full-Stack developer who will never stop learning!</h3>
 
