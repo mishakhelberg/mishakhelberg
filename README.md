@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/mishakhelberg/mishakhelberg/refs/heads/main/LinkedIn%20Banner.jpg)](https://mishakhelberg.io)
-<h1 align="center">Hello, my name is Mishak 👋</h1>
+<h1 align="center">Hello, my name is Mishak</h1>
 <h3 align="center">A passionate Full-Stack developer who will never stop learning!</h3>
 
 <h3 align="left">Connect with me:</h3>
